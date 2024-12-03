@@ -1,5 +1,5 @@
 {
-  "name": "collision-aware-3d",
+  "name": "bvhObject",
   "version": "1.0.0",
   "description": "A TypeScript library for collision-aware 3D objects and BVH-based collision detection.",
   "main": "dist/index.js",
