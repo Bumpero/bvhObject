@@ -1,4 +1,4 @@
-# Collision-Aware 3D System
+# Collision-Aware 3D Code - Bounding Volume Hierarchy (BVH)
 
 A TypeScript-based library for simulating 3D objects with collision detection and tracking using a Bounding Volume Hierarchy (BVH).
 
@@ -12,4 +12,4 @@ A TypeScript-based library for simulating 3D objects with collision detection an
 Clone the repository:
 ```bash
 git clone https://github.com/Bumpero/bvhObject.git
-cd collision-aware-3d
+cd bvhObject
